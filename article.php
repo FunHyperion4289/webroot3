@@ -21,6 +21,7 @@
     $curPage = "articlePage";
 ?>
 
+
 <!DOCTYPE html>
 <html lang="en">
 
